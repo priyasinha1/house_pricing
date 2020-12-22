@@ -188,8 +188,5 @@ main_df=df.copy()
 test_df.loc[:,test_df.isnull().any()].head()
 
 
-# In[ ]:
-
-
 
 
